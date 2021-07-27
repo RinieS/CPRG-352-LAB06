@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <form action='shoppingList' method="post">
+        <form action="ShoppingList" method="post">
         <h1>Shopping List</h1>
         <label>Username</label>
         <input type="text" name="username" value="">
